@@ -8,7 +8,6 @@ import SunnyIcon from "@mui/icons-material/Sunny";
 import "./InfoBox.css";
 
 export default function InfoBox({ info }) {
-  const INIT_URL = import.meta.env.VITE_INIT_URL;
   const HOT_URL = import.meta.env.VITE_HOT_WEATHER;
   const COLD_URL = import.meta.env.VITE_COLD_WEATHER;
   const RAINY_URL = import.meta.env.VITE_RAINY_WEATHER;
