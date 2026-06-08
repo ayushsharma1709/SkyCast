@@ -39,7 +39,3 @@ VITE_HOT_WEATHER=weather_image_like_summer
 VITE_COLD_WEATHER=weather_image_like_winter
 VITE_RAINY_WEATHER=weather_image_like_rainy
 ```
-
-## Author
-
-Ayush
